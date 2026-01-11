@@ -20,4 +20,11 @@ snippet: >
   ```
 ---
 
-The C++ frontend is a pure C++ interface to PyTorch that follows the design and architecture of the established Python frontend. It is intended to enable research in high performance, low latency and bare metal C++ applications.
+* C++ frontend
+  * == PyTorch's C++ interface
+    * follows the Python frontend's design & architecture
+  * use cases
+    * research
+      * Reason:🧠high performance, low latency🧠
+    * bare metal
+      * == execute code DIRECTLY | hardware

@@ -17,4 +17,12 @@ featured-home: true
 
 ---
 
-An active community of researchers and developers have built a rich ecosystem of tools and libraries for extending PyTorch and supporting development in areas from computer vision to reinforcement learning.
+* ecosystem of tools & libraries
+  * rich 
+    * enriched -- by -- researches & developers
+  * extends PyTorch
+  * supports
+    * development | 
+      * computer vision
+      * NLP
+      * ...

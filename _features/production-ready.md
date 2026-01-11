@@ -29,4 +29,18 @@ featured-home: true
 
 ---
 
-With TorchScript, PyTorch provides ease-of-use and flexibility in eager mode, while seamlessly transitioning to graph mode for speed, optimization, and functionality in C++ runtime environments.
+* thanks to
+  * TorchScript
+  * [Torchserve](torchserve.md)
+
+* TorchScript
+  * allows
+    * transition seamlessly BETWEEN eager mode -- & -- graph modes
+  * provided modes
+    * eager
+      * ease-of-use
+      * flexibility
+    * graph
+      * fast
+      * enable
+        * functionality | C++ runtime environments

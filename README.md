@@ -4,9 +4,13 @@
   * built -- via -- [Jekyll](https://jekyllrb.com/) & [Bootstrap](https://getbootstrap.com/)
 
 ## documentation
-* TODO: 
+* [here](pytorch_pages/index.md)
+  * ❌NOT found ALL (EXCEPT to: [get started](_get_started)) | this repo❌
+    * waiting for issue reply -- https://github.com/pytorch/pytorch.github.io/issues/2058 --
 
-## Prerequisites
+## how to set up this website?
+
+### Prerequisites
 
 Install the following packages before attempting to setup the project:
 
@@ -20,9 +24,7 @@ On OSX, you can use:
 brew install rbenv ruby-build nvm
 ```
 
-## Setup
-
-#### Install required Ruby version:
+### Install required Ruby version:
 
 ```
 #### You only need to run these commands if you are missing the needed Ruby version.
@@ -37,21 +39,21 @@ bundle install
 rbenv rehash
 ```
 
-#### Install required Node version
+### Install required Node version
 
 ```
 nvm install
 nvm use
 ```
 
-#### Install Yarn
+### Install Yarn
 
 ```
 brew install yarn --ignore-dependencies
 yarn install
 ```
 
-## Local Development
+## how to develop locally?
 
 To run the website locally for development:
 

@@ -18,4 +18,9 @@ featured-home: true
 
 ---
 
-PyTorch is well supported on major cloud platforms, providing frictionless development and easy scaling through prebuilt images, large scale training on GPUs, ability to run models in a production scale environment, and more.
+* PyTorch
+  * supported | major cloud platforms
+    * -> enables
+      * frictionless development
+      * easy scaling -- through -- prebuilt images
+      * run models | production scale environment 

@@ -20,4 +20,16 @@ featured-home: false
 
 ---
 
-TorchServe is an easy to use tool for deploying PyTorch models at scale. It is cloud and environment agnostic and supports features such as multi-model serving, logging, metrics and the creation of RESTful endpoints for application integration.
+* TorchServe
+  * ⚠️NO actively maintained⚠️
+  * == tool / 
+    * easy to use
+    * cloud & environment agnostic
+    * features
+      * multi-model serving,
+      * logging,
+      * metrics
+      * create RESTful endpoints -- for -- application integration 
+  * allows
+    * deploying PyTorch models | scale
+      * == accelerate the path -- to -- production

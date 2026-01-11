@@ -15,4 +15,11 @@ featured-home: true
 
 ---
 
-Optimize performance in both research and production by taking advantage of native support for asynchronous execution of collective operations and peer-to-peer communication that is accessible from Python and C++.
+* `torch.distributed`
+  * == backend /
+    * enable
+      * scalable distributed training
+      * performance optimization | research & production
+        * Reason:🧠thanks to
+          * native support -- for -- asynchronous execution of collective operations
+          * P2P communication / accessible -- from -- Python & C++ 🧠
