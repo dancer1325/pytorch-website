@@ -1,8 +1,10 @@
-# pytorch.org site
+# [pytorch.org site](https://pytorch.org)
 
-[https://pytorch.org](https://pytorch.org)
+* static website /
+  * built -- via -- [Jekyll](https://jekyllrb.com/) & [Bootstrap](https://getbootstrap.com/)
 
-A static website built in [Jekyll](https://jekyllrb.com/) and [Bootstrap](https://getbootstrap.com/) for [PyTorch](https://pytorch.org/), and its tutorials and documentation.
+## documentation
+* TODO: 
 
 ## Prerequisites
 
